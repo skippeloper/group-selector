@@ -6,7 +6,7 @@ This project was made to understand the basics of vuejs and tailwind.
 
 ## Runnig the project
 
-To run the project use command:
+To run the project use command from the root project directory:
 
     npm run dev
 
