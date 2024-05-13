@@ -1,9 +1,13 @@
-# Vue 3 + TypeScript + Vite
+# Group Selector
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+The group selector is a silly little project I like to create whenever I am learning either a new language or framework. The project provides a simple screen where you can load up a list of friends and randomly select groups of whatever size you would like out of the pool of friends.
 
-## Recommended Setup
+This project was made to understand the basics of vuejs and tailwind.
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+## Runnig the project
 
-- Use [vue-tsc](https://github.com/vuejs/language-tools/tree/master/packages/tsc) for performing the same type checking from the command line, or for generating d.ts files for SFCs.
+To run the project use command:
+
+    npm run dev
+
+You can then access the page at [http://localhost:5173](http://localhost:5173).
