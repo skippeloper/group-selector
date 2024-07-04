@@ -4,7 +4,7 @@ The group selector is a silly little project I like to create whenever I am lear
 
 This project was made to understand the basics of vuejs and tailwind.
 
-## Runnig the project
+## Running the project
 
 To run the project use command from the root project directory:
 
